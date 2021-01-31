@@ -1,0 +1,3 @@
+s1 = "The quick brown fox jumps over the lazy dog α,β,γ"
+
+i = findfirst()
