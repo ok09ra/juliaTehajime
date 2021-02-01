@@ -1,3 +1,17 @@
 s1 = "The quick brown fox jumps over the lazy dog α,β,γ"
 
-i = findfirst()
+println(s1)
+println(s1)
+
+s1Caps = uppercase(s1)
+s1Lower = lowercase(s1)
+
+println(s1Caps)
+println(s1Lower)
+a = "welcome"
+b = "Julia"
+println("$a to $b")
+
+s3 = string("this "*"is "*"a "*"pen.")
+
+println(s3)
